@@ -26,7 +26,10 @@
 <body class="bg-light">
 
 
-<?php require ('inc/header.php');?>
+<?php 
+require ('inc/header.php');
+// require('./inc/header.php');
+?>
 
     <!-- carousel -->
 
